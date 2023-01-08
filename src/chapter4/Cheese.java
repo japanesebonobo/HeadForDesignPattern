@@ -1,5 +1,5 @@
 package chapter4;
 
-public interface Sauce {
+public interface Cheese {
     public String toString();
 }
